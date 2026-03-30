@@ -1,3 +1,5 @@
+
+
 # 🚀 Hiring Dashboard
 
 A full-featured, **AI-powered hiring management web app** built entirely on **Google Apps Script** — no servers, no hosting costs, no external databases. Just a Google Sheet, a Script, and your team.
@@ -7,6 +9,9 @@ A full-featured, **AI-powered hiring management web app** built entirely on **Go
 ![AI](https://img.shields.io/badge/AI-Claude%20(Anthropic)-purple)
 
 ---
+
+# Other Web Apps:
+- Business Media Manager Web App: https://github.com/slshivamlohia-png/Business-Creative-Manager-Web-App-Ready-To-Use
 
 ## ✨ What It Does
 
